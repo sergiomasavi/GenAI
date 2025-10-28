@@ -3,4 +3,6 @@ python-dotenv>=1.1.1,<1.2.0
 Pillow>=11.3.0,<11.4.0
 requests>=2.32.5,<2.33.0
 cairosvg>=2.8.2,<2.9.0
-langchain-openai>=1.0.1, <1.1.0
+langchain-openai>=1.0.1,<1.1.0
+langchain-community>=0.4,<0.5
+langgraph>=1.0.1,<1.1.0
